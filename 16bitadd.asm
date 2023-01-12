@@ -1,4 +1,4 @@
-;Implement a 16-bit addition. Assume data is present in code memory
+;Implement a 16-bit addition. 
 
 		AREA my_code, CODE, READONLY
 		mov r0, #0x40000000
